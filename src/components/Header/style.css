@@ -1,0 +1,11 @@
+header#main-header {
+    height: 60px;
+    background: rgb(113, 89, 193);
+    font-size: 18px;
+    font-weight: bold;
+    color: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
